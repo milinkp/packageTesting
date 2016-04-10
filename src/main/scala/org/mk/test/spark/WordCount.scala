@@ -3,6 +3,7 @@ package org.mk.test.spark
 import org.apache.spark.SparkConf
 import org.apache.spark.SparkContext
 
+// word count
 object WordCount {
   def main(args: Array[String]) = {
 
